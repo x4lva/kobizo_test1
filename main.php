@@ -17,6 +17,8 @@ function Sum($n){
 
 echo MinMax([1,4,5,3,17]);
 
+echo "<br>";
+
 echo Sum(3);
 
 
